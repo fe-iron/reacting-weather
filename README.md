@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-#Screenshot of the UI
+# Screenshot of the UI
 
 ![image](https://user-images.githubusercontent.com/29462263/116506477-fadc2380-a8da-11eb-9d3e-dbd948142200.png)
 
